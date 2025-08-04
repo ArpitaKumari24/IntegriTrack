@@ -1,4 +1,4 @@
-# 🛡️ IntegriTech using SHA256 (Python)
+🛡️ IntegriTech using SHA256 (Python)
 
 This Python script is designed to **monitor file changes** within a directory and detect if any files have been **modified, deleted, or newly added**. It uses **SHA256 hashing** to ensure data integrity — perfect for tracking sensitive files or ensuring no tampering has occurred.
 -------------------------------------------------------------------------------
